@@ -6,7 +6,7 @@ package com.example.Tutorialspoint;
         import java.util.Locale;
 
         import com.google.android.gms.common.ConnectionResult;
-        import com.google.android.gms.common.GooglePlayServicesClient;
+        import com.google.android.gms.common.GooglePlayServicesUtil;
         import com.google.android.gms.location.LocationClient;
 
         import android.content.Context;
